@@ -2,6 +2,7 @@
 title: "我的第一篇博客帖子"
 date: 2026-09-12
 tags: 笔记 技术
+layout: post
 ---
 
 # 这是我在github博客写的第一篇文章。
